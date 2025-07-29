@@ -1,1 +1,47 @@
-# josip_stranica.github.io
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+</head>
+
+<body>
+    <header>
+    <h1>  Josip Tadić </h1>
+    <p>Magistar ekonomije</p>
+    <div class="contact">
+        email:josiptad11@gmail.com  |
+        LinkedIn: https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ 
+   </div
+ </header>
+
+
+<main>
+    <h3>
+<a href="Josip_Tadić_Životopis.pdf" target="_blank">
+  <button style="border-color: blue; cursor: pointer; h3 style="background-color:blue;">  
+    Moj životopis</button>
+ </a>
+</h3>
+
+<h4>
+ <a href="Josip_Tadić_Motivacijsko_pismo.pdf" target="_blank">
+  <button style="border-color: blue; cursor: pointer;">  
+    Motivacijsko pismo</button>
+     </a> 
+</h4>
+
+<h5>
+ <a href="https://www.linkedin.com/in/josip-tadi%C4%87-031588172/" target="_blank">
+  <button style="border-color: blue; cursor: pointer;">  
+    LinkedIn profil</button>
+     </a>    
+</h5>
+
+<h6>
+<a href="snimke zaslona.pdf" target="_blank">
+    <button style="border-color: blue; cursor: pointer;">  
+    Snimke zaslona</button>
+</a>     
+</h6>
+</main>
