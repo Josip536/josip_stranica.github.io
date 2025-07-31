@@ -9,13 +9,7 @@
     <header>
     <h1>  Josip Tadić </h1>
     <p>Magistar ekonomije</p>
-    <div class="contact">
-        email:josiptad11@gmail.com  |
-        LinkedIn: https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ 
-   </div
  </header>
-
-
 <main>
     <h3>
 <a href="Josip_Tadić_Životopis.pdf" target="_blank">
@@ -25,7 +19,7 @@
 </h3>
 
 <h4>
- <a href="Josip_Tadić_Motivacijsko_pismo.pdf" target="_blank">
+ <a href="Josip_Tadić_Motivacijsko_pismo_2.pdf" target="_blank">
   <button style="border-color: blue; cursor: pointer;">  
     Motivacijsko pismo</button>
      </a> 
